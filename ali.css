@@ -24,8 +24,7 @@ h1 {
   margin-inline-end: auto;
 }
 
-span,
-q {
+a {
   display: list-item;
   list-style: circle;
 }
