@@ -1,0 +1,41 @@
+:root {
+  --dew-solar: linen;
+  --dew-lunar: #111;
+  --dew-slick: var(--dew-ink);
+  --dew-slime: var(--dew-oil);
+}
+
+html {
+  font-size: max(20pt, 5vw);
+}
+
+body {
+  padding: 2vmin;
+  padding-inline-start: 5vw;
+  padding-inline-end: 0;
+  margin: auto;
+  overflow-wrap: anywhere;
+}
+
+h1 {
+  font-size: 1.6rem;
+  display: inline;
+  margin: 0;
+  margin-inline-end: auto;
+}
+
+span,
+q {
+  display: list-item;
+  list-style: circle;
+}
+
+:any-link {
+  text-decoration-style: double;
+}
+
+:focus {
+  outline-style: double;
+  outline-width: thick;
+  outline-color: currentColor;
+}
