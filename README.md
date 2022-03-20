@@ -1,3 +1,11 @@
-# [CSS](https://developer.mozilla.org/CSS)
+# [index](index.html)
 
-## [Cascading<br>Style<br>Sheets](https://webmural.com/css)
+# [graf](https://github.com/webmural/ali/generate) an [ali](https://webmural.com/ali)
+
+```css
+list-style: circle;
+```
+
+```css
+outline-style: double;
+```
